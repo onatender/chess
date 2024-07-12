@@ -1,0 +1,10 @@
+C:\Users\ONAT\source\repos\ChessByMe\ChessByMe\bin\Debug\ChessByMe.exe.config
+C:\Users\ONAT\source\repos\ChessByMe\ChessByMe\bin\Debug\ChessByMe.exe
+C:\Users\ONAT\source\repos\ChessByMe\ChessByMe\bin\Debug\ChessByMe.pdb
+C:\Users\ONAT\source\repos\ChessByMe\ChessByMe\obj\Debug\ChessByMe.csproj.AssemblyReference.cache
+C:\Users\ONAT\source\repos\ChessByMe\ChessByMe\obj\Debug\ChessByMe.Properties.Resources.resources
+C:\Users\ONAT\source\repos\ChessByMe\ChessByMe\obj\Debug\ChessByMe.csproj.GenerateResource.cache
+C:\Users\ONAT\source\repos\ChessByMe\ChessByMe\obj\Debug\ChessByMe.csproj.CoreCompileInputs.cache
+C:\Users\ONAT\source\repos\ChessByMe\ChessByMe\obj\Debug\ChessByMe.exe
+C:\Users\ONAT\source\repos\ChessByMe\ChessByMe\obj\Debug\ChessByMe.pdb
+C:\Users\ONAT\source\repos\ChessByMe\ChessByMe\obj\Debug\ChessByMe.Square.resources
